@@ -1017,7 +1017,7 @@
 
 						<!-- copyright -->
 						<div class="copyright text-center">
-								<h3><a href="login.html" target="_blank">廊坊庆<span class="LOGO" >辉</span>建材</a><span style="font-size:13px;padding-left:5px;">™</span><span style="font-size:18px;padding-left:5px;">.2017</span></h3> 
+								<h3><a href="login.html" target="_blank">廊坊庆<span class="LOGO" >辉</span>建材有限公司</a><span style="font-size:13px;padding-left:5px;">™</span><span style="font-size:18px;padding-left:5px;">.2017</span></h3> 
 								<hr>
 								友情链接:
 								<a href="https://www.zhihu.com/" target="_blank">知乎</a>
@@ -1026,6 +1026,9 @@
 								<a href="https://www.taobao.com/" target="_blank">淘宝</a>
 								<a href="https://www.baidu.com/" target="_blank">百度</a>
 								<p>技术支持：<a target="_blank" href="http://www.zooori.cn">ZooORI.才华有限公司</a></p>
+								<p>
+								<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1264493882'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1264493882%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+								</p>
 						</div>
 						<!-- /copyright -->
 						
