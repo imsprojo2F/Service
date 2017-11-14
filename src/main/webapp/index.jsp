@@ -218,7 +218,7 @@
 			}
 			
 			.mask{height:100%; width:100%; position:fixed; top:0; z-index:1000;
-				  opacity:1; filter: alpha(opacity=100); background-color:#2b2c30;display:none;
+				  opacity:1; filter: alpha(opacity=100); background-color:#222021;display:none;
 			 }
 			.mask-container{
 				border:0px solid #fff;
